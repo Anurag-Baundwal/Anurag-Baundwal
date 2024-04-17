@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi 👋, I'm Anurag
 
-<!--
-**Anurag-Baundwal/Anurag-Baundwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+   <a href="https://www.linkedin.com/in/anurag-baundwal-ba94441a0/"><img src="linkedin-icon.png"></a>&nbsp;&nbsp;
+   <a href="https://github.com/Anurag-Baundwal"><img src="github-icon.png"></a>&nbsp;&nbsp;
+</p>
 
-Here are some ideas to get you started:
+Passionate about web development, building applications, and learning new things. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- HTML, CSS, JavaScript 
+- React, Next.js, Node.js, Express.js
+- MongoDB, Firebase
+- Python, SQL, Excel, Tableau
+- Git, Docker, AWS, Google Cloud
+
+### 📂 Projects
+- [Clyde AI Chatbot](link) - Python chatbot using Anthropic API 
+- [Patient Management App](link) - MERN stack healthcare app
+- [Sticky Notes App](link) - React CRUD app using CrudCrud API  
+- [Tic-Tac-Toe Game](link) - React game with AI opponent
+- [Weather App](link) - React app using OpenWeatherMap API
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anurag-Baundwal&show_icons=true&theme=react&line_height=27" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Baundwal&theme=react&hide_langs_below=1" alt="Top Languages"/>
+   
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Anurag-Baundwal&theme=react&hide_border=true" alt="Streak Stats"/>
+</p>
