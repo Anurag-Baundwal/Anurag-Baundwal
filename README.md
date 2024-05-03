@@ -1,10 +1,5 @@
 ### Hi 👋, I'm Anurag
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/anurag-baundwal-ba94441a0/"><img src="linkedin-icon.png"></a>&nbsp;&nbsp;
-   <a href="https://github.com/Anurag-Baundwal"><img src="github-icon.png"></a>&nbsp;&nbsp;
-</p>
-
 Passionate about web development, building applications, and learning new things. 
 
 ### 🛠️ Skills
